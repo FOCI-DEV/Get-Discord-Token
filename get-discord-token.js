@@ -124,3 +124,4 @@
          e.clipboardData.setData('text/plain', userToken);
       }
    });
+})();
