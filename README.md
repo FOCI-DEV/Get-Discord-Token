@@ -6,6 +6,7 @@ Automatically gets your discord token from your browser, bypassing the security 
 ### 3. Add [script](https://github.com/FOCI-DEV/Get-Discord-Token/blob/master/get-discord-token.js) into Tampermonkey 
 ### 4. Load/refresh [Discordapp](https://discordapp.com/activity) in browser (must be logged in)
 
+---
 
 ```
 // ==UserScript==
