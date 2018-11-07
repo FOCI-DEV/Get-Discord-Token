@@ -145,3 +145,4 @@ Automatically gets your discord token from your browser, bypassing the security 
       }
    });
 })();
+```
