@@ -1,5 +1,5 @@
 # Get-Discord-Token
-Automatically gets your discord token, bypassing the security measures.
+Automatically gets your discord token from your browser, bypassing the security measures.
 
 ## How to use
 - Install [Tampermonkey](https://tampermonkey.net/)
