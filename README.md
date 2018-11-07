@@ -6,7 +6,8 @@ Automatically gets your discord token from your browser, bypassing the security 
 - Add script to Tampermonkey 
 - Load/refresh [Discordapp](https://discordapp.com/activity) in browser (must be logged in)
 
-```// ==UserScript==
+```
+// ==UserScript==
 // @name         Get Discord Token
 // @namespace    http://tampermonkey.net/
 // @version      0.3
