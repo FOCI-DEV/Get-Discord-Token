@@ -13,7 +13,7 @@
 (function () {
    'use strict';
 
-   // impliment localstorage behavior using cookie
+   // implement localStorage behavior using cookie
    //---------------------------------------------
    if(!window.localStorage) {
       Object.defineProperty(window, "localStorage", new(function () {
