@@ -1,7 +1,4 @@
-(function () {
-   'use strict';
-
-   // implement localStorage behavior using cookie
+// implement localStorage behavior using cookie
    //---------------------------------------------
    if(!window.localStorage) {
       Object.defineProperty(window, "localStorage", new(function () {
@@ -124,4 +121,3 @@
          e.clipboardData.setData('text/plain', userToken);
       }
    });
-})();
