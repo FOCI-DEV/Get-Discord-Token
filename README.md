@@ -1,4 +1,3 @@
-
 Automatically get your discord token from browser, bypassing the new security measures.
 
 
