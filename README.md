@@ -15,7 +15,7 @@ Automatically gets your discord token from your browser, bypassing the security 
 // @version      0.3
 // @description  Allows you to retrieve your user token for reference.
 // @author       F.O.C.I.#0001
-// @match        https://discordapp.com/active*
+// @match        https://discordapp.com/activ*
 // @match        https://discordapp.com/channel*
 // @grant        none
 // @run-at       document-start
