@@ -1,5 +1,5 @@
 # Get-Discord-Token
-Automatically gets your discord token from your browser, bypassing the security measures.
+Automatically get your discord token from browser, bypassing the security measures.
 
 
 
