@@ -1,4 +1,19 @@
-// implement localStorage behavior using cookie
+// ==UserScript==
+// @name         Get Discord Token
+// @namespace    http://tampermonkey.net/
+// @version      0.3
+// @description  Allows you to retrieve your user token for reference.
+// @author       F.O.C.I.#0001
+// @match        https://discordapp.com/active*
+// @match        https://discordapp.com/channel*
+// @grant        none
+// @run-at       document-start
+// ==/UserScript==
+
+(function () {
+   'use strict';
+
+   // impliment localstorage behavior using cookie
    //---------------------------------------------
    if(!window.localStorage) {
       Object.defineProperty(window, "localStorage", new(function () {
@@ -121,3 +136,4 @@
          e.clipboardData.setData('text/plain', userToken);
       }
    });
+})();
