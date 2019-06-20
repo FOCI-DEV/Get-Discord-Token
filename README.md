@@ -3,9 +3,10 @@ Automatically get your discord token from browser, bypassing the new security me
 
 
 ## How-to
-### 1. Install [Tampermonkey](https://tampermonkey.net/) ([guide](https://www.youtube.com/watch?v=cu4XeYtqXbM))
+### 1. Log into [Discordapp](https://discordapp.com/activity) in browser
+### 2. Install [Tampermonkey](https://tampermonkey.net/) ([guide](https://www.youtube.com/watch?v=cu4XeYtqXbM))
 ### 3. Add [script](https://github.com/FOCI-DEV/Get-Discord-Token/blob/master/get-discord-token.js) into Tampermonkey 
-### 4. Load/refresh [Discordapp](https://discordapp.com/activity) in browser (must be logged in)
+### 4. Load/refresh [Discordapp](https://discordapp.com/activity) in browser
 
 ---
 
