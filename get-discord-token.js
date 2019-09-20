@@ -108,18 +108,6 @@
 
    var userToken = localStorage.getItem('token');
 
-   var warn = "Allowing anyone to see your token can result in them gaining access to your account. This can lead to impersonation, server bans, account closure, etc.\n\n\n\n If you do not understand this, press 'Cancel'."
-
-   // show warning, if accepted show token
-   document.addEventListener('readystatechange', event => {
-      if(event.target.readyState === "interactive") {} else if(event.target.readyState === "complete") {
-         setTimeout(function () {
-            if(confirm(warn)) {
-               prompt("Your token:", userToken)
-            }
-         }, 3000);
-      }
-   });
 
    // prevent pasting token into discord
    document.addEventListener('paste', function (e) {
