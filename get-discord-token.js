@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.3
 // @description  Allows you to retrieve your user token for reference.
-// @author       F.O.C.I.#0001
+// @author       Brendan#4698
 // @match        https://discordapp.com/activ*
 // @match        https://discordapp.com/channel*
 // @grant        none
