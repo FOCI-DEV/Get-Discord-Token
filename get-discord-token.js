@@ -4,8 +4,8 @@
 // @version      0.3
 // @description  Allows you to retrieve your user token for reference.
 // @author       Brendan#4698
-// @match        https://discordapp.com/activ*
-// @match        https://discordapp.com/channel*
+// @match        https://discord.com/activ*
+// @match        https://discord.com/channel*
 // @grant        none
 // @run-at       document-start
 // ==/UserScript==
